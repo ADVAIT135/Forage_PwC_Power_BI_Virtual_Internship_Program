@@ -1,3 +1,8 @@
+<p>
+<img src="https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/fcfd69d9564f2b8eda1b4c0620e35bf345153c3d/Forage.PNG?raw=True" alt="Forage" >
+<img src="https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/fcfd69d9564f2b8eda1b4c0620e35bf345153c3d/PwC_logo.png?raw=true" height = 100px  alt="CommonWealth Bank" >
+</p>
+
 # Forage_PwC_Power_BI_Virtual_Internship_Program
 This Repository consist of all the PowerBI Report (.pdf) files of the tasks that were assigned during the PwC Power BI Virtual Internship hosted on Forage.
 <hr>
