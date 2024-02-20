@@ -9,5 +9,5 @@ This Repository consist of all the PowerBI Report (.pdf) files of the tasks that
 <hr>
 
 ## [Task 3: PowerBI report for Customer Retention](https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/08c3f0f3b8b5345e162088a46eeb49b2a9417bfc/Task%20-%203%3A%20Customer%20Retention/Forage%20PwC%20Power%20BI%20Task%203%20Customer%20Retention.pdf)
-## [Task 3: Recommendation Mail Text](https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/08c3f0f3b8b5345e162088a46eeb49b2a9417bfc/Task%20-%203%3A%20Customer%20Retention/Recommendation_mail.txt)
+## [Task 3: Recommendation Mail Text based on PowerBI Report](https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/08c3f0f3b8b5345e162088a46eeb49b2a9417bfc/Task%20-%203%3A%20Customer%20Retention/Recommendation_mail.txt)
 <hr>
