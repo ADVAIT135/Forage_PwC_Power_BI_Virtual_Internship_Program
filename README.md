@@ -19,3 +19,6 @@ This Repository consist of all the PowerBI Report (.pdf) files of the tasks that
 
 ## [Task 4: PowerBI report for Diversity and Inclusion](https://github.com/ADVAIT135/Forage_PwC_Power_BI_Virtual_Internship_Program/blob/51dbee8f79faf46bab625ad33a5b9945563388e1/Task%20-%204%3A%20Diversity%20and%20Inclusion/Forage%20PwC%20Power%20BI%20Task%204%20Diversity%20and%20Inclusion%20.pdf)
 <hr>
+
+
+# [Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_xHj9pxotQTSvEtW8B_1708183969273_completion_certificate.pdf)
