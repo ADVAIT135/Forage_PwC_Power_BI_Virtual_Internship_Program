@@ -1,0 +1,30 @@
+Hi Janet,
+
+Retention Manager, PhoneNow
+
+I am here with the following I found from the provided dataset. The findings are as below: -
+
+Customer that have number of tech tickets greater than or equal to 6 have high chances of being churned.
+The following is the distribution of the number of tech tickets raised by high churn probable customers: -
+
+For 6 number of tech tickets the probable portion of customers being churned is 81.94%
+For 7 number of tech tickets the probable portion of customers being churned is 96.55%
+For 8 and 9 number of tech tickets the probable portion of customers being churned is 100%
+
+So, the problems of customers having number of tech tickets raised to be 6 or more, must be resolved on priority basis to retain them. 
+Out the total 7043 customers, 1869 customers have been churned. 
+Customers having ‘Electronic Check’ as their payment method have a high chance of being churned.
+Customers who are Senior Citizens have a high chance of being churned. So, giving priority to solve the Senior Citizen would help to retain a huge portion of Senior Citizen Customers
+Also, Customers who were not given tech support when needed have been found to be churned. 
+The Overall churn rate is (1869/7043) * 100  = 26.54%, which is quite high.
+
+A churn rate of 26.54% is quite high. It’s important to investigate the reasons behind this high churn rate.
+
+Here are a few areas you might want to look into:
+
+Customer Satisfaction: Are your customers happy with your product or service? Conducting surveys or interviews could provide valuable insights.
+Product/Service Quality: Is there a problem with the product or service you are providing? It might be worth revisiting your quality control measures.
+Pricing: Are your prices competitive? If your customers can get a similar product or service for a cheaper price, they might choose to switch.
+Customer Support: How effective is your customer support? Customers often leave because of poor customer service.
+
+Remember, retaining existing customers is often more cost-effective than acquiring new ones. So, it’s worth investing time and resources into reducing this churn rate.
